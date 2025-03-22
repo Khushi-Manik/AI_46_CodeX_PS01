@@ -6,11 +6,17 @@ ERP systems can be complex, making it difficult for users to find the informatio
 
 ✨ Features
 ✅ Dual Input Modes – Supports text & voice queries.
+
 ✅ Knowledge Base Integration – Retrieves ERP-specific information.
+
 ✅ AI Fallback Mechanism – Uses LLMs (Large Language Models) when answers aren’t found.
+
 ✅ Text-to-Speech (TTS) – Converts AI responses into natural speech.
+
 ✅ Animated Avatar – Lip-synced assistant for interactive user experience.
+
 ✅ Intuitive UI – Built with React, offering a seamless chat interface.
+
 ✅ Scalable & Adaptive – Can be extended to multiple ERP platforms & languages.
 
 🛠️ Technology Stack
